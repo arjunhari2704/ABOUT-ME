@@ -5,7 +5,7 @@ I had done all my school education under the CBSE board. I have completed my SSL
 I completed my higher secondary from Niramala Matha Central School Thrissur with 81.7% in computer science.
 
 <p align="center">
-<image src="http://www.methilinfotech.com/img/graphic_design.png"></p>
+<image src="http://www.methilinfotech.com/img/graphic_design.png">
 
 ### OTHER QUALIFICATION
 - Iam well versed programmer in C and C++. I have done my higher secondary with these as my core subjects.
