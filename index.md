@@ -4,6 +4,7 @@
 I had done all my school education under the CBSE board. I have completed my SSLC from Bharatiya Vidhya Bhavan Thirunavaya with CGPA of 10.0 .
 I completed my higher secondary from Niramala Matha Central School Thrissur with 81.7% in computer science.
 
+
 ![image](http://www.methilinfotech.com/img/graphic_design.png)
 
 ### OTHER QUALIFICATION
