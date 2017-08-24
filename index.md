@@ -7,4 +7,3 @@ I completed my higher secondary from Niramala Matha Central School Thrissur with
 <image src="http://www.methilinfotech.com/img/graphic_design.png">
   
 ### OTHER QUALIFICATION
-
